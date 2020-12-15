@@ -16,6 +16,7 @@ body {
     height: 100px;
     background: url(./images/1.png);
     background-size: cover;
+    border: 1px solid #000;
     transition: 0.5s;
 }
 .center:hover .slide {
